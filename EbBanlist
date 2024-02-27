@@ -1,0 +1,23 @@
+local Ban = {
+	['Ban'] = { 
+		[3615676414] = {Motivo = "flw"}, -- p3u
+		[5184846984] = {Motivo = "trolle em outra EB"}, -- trollando civil sendo recrutado.
+		[1320673822] = {Motivo = "raid de eb, aqui nao amigo hehe"},
+		[1088799387] = {Motivo = "raid de eb, aqui nao amigo hehe"},
+	},
+	['Ban_Amigos'] = {
+		[5275182514] = {Motivo = "Flw"}, 
+		[36651812] = {Motivo = "Flw"}, 
+		[2240612447] = {Motivo = "Fracassado."}, 
+		[3627457285] = {Motivo = "flw"}, 
+		[5101433461] = {Motivo = "Fracassado."}, 
+		[2602020522] = {Motivo = "Flw"}, --  change abc
+		[5263747126] = {Motivo = "flw"}, --   change abc
+		[3059560613] = {Motivo = "flw"}, --   change abc
+		[5281676202] = {Motivo = "flw"}, --   ban all
+		[4979128725] = {Motivo = "Fracassado"}, --   exploit / comandos all 
+		
+	},
+
+}
+return Ban 
